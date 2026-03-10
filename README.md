@@ -7,7 +7,7 @@
 <!-- CLEAN TYPING INTRO -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Cybersecurity+Systems+Builder;Full+Stack+Technology+Explorer;Machine+Learning+%7C+Security+Research"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Cybersecurity+Systems+Builder;Full+Stack+Technology+Explorer;Machine+Learning+%7C+Security+Research"/>
 </p>
 
 <!-- PROFILE VIEW COUNTER -->
@@ -16,6 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=NK-XETABYTE&style=for-the-badge&color=lightgrey"/>
 </p>
 
+---
 ---
 
 
