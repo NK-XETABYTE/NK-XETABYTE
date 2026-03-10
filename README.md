@@ -1,7 +1,7 @@
 <!-- PURE BLACK HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=NK%20XETABYTE&fontColor=ffffff&fontSize=60&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=XETABYTE&fontColor=ffffff&fontSize=60&fontAlignY=55"/>
 </p>
 
 <!-- CLEAN TYPING INTRO -->
@@ -17,6 +17,7 @@
 </p>
 
 ---
+
 ---
 
 
