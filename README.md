@@ -1,3 +1,27 @@
+<!-- PURE BLACK HEADER -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=NK%20XETABYTE&fontColor=ffffff&fontSize=60&fontAlignY=55"/>
+</p>
+
+<!-- CLEAN TYPING INTRO -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Cybersecurity+Systems+Builder;Full+Stack+Technology+Explorer;Machine+Learning+%7C+Security+Research"/>
+</p>
+
+<!-- PROFILE VIEW COUNTER -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NK-XETABYTE&style=for-the-badge&color=lightgrey"/>
+</p>
+
+---
+
+
+
+
+
 # 💫 Hi 👋, I'm NK
 
 Artificial Intelligence & Cybersecurity Enthusiast
@@ -41,14 +65,35 @@ Artificial Intelligence & Cybersecurity Enthusiast
 ![](https://nirzak-streak-stats.vercel.app/?user=NK-XETABYTE&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NK-XETABYTE&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📡 Live Coding Activity
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NK-XETABYTE&bg_color=000000&color=00ffff&line=00ffff&point=00e5ff&area=false&hide_border=true"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NK-XETABYTE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🧠 System Activity Monitor
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NK-XETABYTE&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NK-XETABYTE&theme=github_dark"/>
+</p>
+
+
+
+# 🔝 Top Contributed Repo
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=NK-XETABYTE&limit=5&theme=dark"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NK-XETABYTE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=NK-XETABYTE&icon=0&color=0"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Code after midnight hits different."</i>
+</p>
